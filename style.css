@@ -46,3 +46,13 @@ h1 {
 .cc-name {
     font-weight: bold;
 }
+
+.gallery {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.gallery img {
+    padding: 10px;
+}
